@@ -1,0 +1,5 @@
+Build the docker using the following command:
+
+```
+docker build -t sqlite-test:1.0.0 .
+```
